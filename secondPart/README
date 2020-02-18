@@ -1,11 +1,3 @@
----------------------------------------------------
-Name : Charles Ancheta, Poulomi Ganguly
-ID: 1581672, 1598887
-CMPUT 275 , Winter 2020
-
-Assignment 1, Part 2: Restaurant Finder
----------------------------------------------------
-
 Included Files:
     
     Source Files
@@ -28,10 +20,10 @@ Included Files:
 
 Accessories:
 
-	* 1 Arduino Mega Board
-	* 5 Male to Female Wires
-    * TFT Display with Stylus
-    * Joystick
+* 1 Arduino Mega Board
+* 5 Male to Female Wires
+* TFT Display with Stylus
+* Joystick
 
 Wiring Instructions
 
