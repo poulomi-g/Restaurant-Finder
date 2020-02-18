@@ -1,4 +1,4 @@
-# RESTOFINDER
+# RESTAURANT FINDER
 
 Made by: Poulomi Ganguly and Charles Ancheta
 
